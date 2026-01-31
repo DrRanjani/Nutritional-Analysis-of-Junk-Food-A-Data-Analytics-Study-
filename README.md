@@ -1,0 +1,2 @@
+# Nutritional-Analysis-of-Junk-Food-A-Data-Analytics-Study-
+Junk food consumption is increasing rapidly, but its nutritional composition varies across food items and restaurants. High levels of calories, fats, sugar, and sodium can negatively impact health. There is a need to analyze junk food nutritional data to understand unhealthy patterns and identify key nutritional factors affecting food quality.
